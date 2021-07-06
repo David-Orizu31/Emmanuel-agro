@@ -1,0 +1,46 @@
+body {
+  background: rgb(206, 224, 206);
+}
+
+a {
+  color: #1c6ea0;
+}
+
+a:hover {
+  color: rgb(80, 150,50 );
+}
+
+#headright {
+  background: rgb(80, 150,50 );
+}
+
+#main-menu li li a,
+#main-menu li li a:link,
+#main-menu li li a:visited {
+  background-color: #223b16;
+}
+
+#main-menu li li a:hover,
+#main-menu li li a:active {
+  background: #0b1b08;
+}
+
+.sidebar .block > h2 {
+  background: rgb(80, 150,50 );
+}
+
+#bottom {
+  background: #243d18;
+}
+
+#copyright {
+  background: rgb(80, 150,50 );
+}
+
+.form-submit{
+  background-color: rgb(80, 150,50 );
+}
+
+.form-submit:hover{
+  background: #454444;
+}
